@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyam-193
 - 👀 I’m interested in development and algorithms.
-- 🌱 I’m currently learning advacing the concept of first programming language.
+- 🌱 I’m currently learning c++ advanced concepts.
 - 💞️ I’m looking to collaborate on ....
 - 📫 you can reach out to me on linkedin.
 
