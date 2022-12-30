@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](https://www.linkedin.com/in/satyam-pathak-a482481bb/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-grey)](https://www.hackerrank.com/users/satyampathak7291)
-[![Defendtheweb](https://img.shields.io/badge/DefendtheWeb-blue)](https://www.defendtheweb.net/)
+[![Defendtheweb](https://img.shields.io/badge/DefendtheWeb-blue)](https://www.defendtheweb.net/Benji_29)
 
 
 # 💻 Tech Stack:
@@ -16,7 +16,7 @@
 ![C](https://img.shields.io/badge/C-blue) ![C++](https://img.shields.io/badge/C++-grey) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white) ![Python](https://img.shields.io/badge/PYTHON-blue) 
 ![Firebase](https://img.shields.io/badge/FIREBASE-yellow)  ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![MySQL](https://img.shields.io/badge/MYSQL-white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange)
-![NMAP](https://img.shields.io/badge/NMAP-blue)
+![NMAP](https://img.shields.io/badge/NMAP-white)
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
 
 ![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-red)
