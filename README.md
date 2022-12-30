@@ -18,7 +18,8 @@
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
 
 ![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-red)
-
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-blue)
+![NMAP](https://img.shields.io/badge/NMAP-blue)
 
 # 📊 GitHub Stats:
 
