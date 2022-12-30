@@ -18,7 +18,7 @@
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
 
 ![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-red)
-
+![XML](https://img.shields.io/badge/XML-white)
 
 # 📊 GitHub Stats:
 
