@@ -13,11 +13,11 @@
 
 # 💻 Tech Stack:
 
-![C](https://img.shields.io/badge/C-white) ![C++](https://img.shields.io/badge/C++-grey) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-grey) ![Python](https://img.shields.io/badge/PYTHON-white) 
-![Firebase](https://img.shields.io/badge/FIREBASE-grey)  ![MongoDB](https://img.shields.io/badge/MongoDB-blue) ![MySQL](https://img.shields.io/badge/MYSQL-white)
-![OSINT](https://img.shields.io/badge/OSINT-grey)
+![C](https://img.shields.io/badge/C-blue) ![C++](https://img.shields.io/badge/C++-grey) ![CSS3](https://img.shields.io/badge/CSS3-grey) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white) ![Python](https://img.shields.io/badge/PYTHON-blue) 
+![Firebase](https://img.shields.io/badge/FIREBASE-grey)  ![MongoDB](https://img.shields.io/badge/MongoDB-grey) ![MySQL](https://img.shields.io/badge/MYSQL-white)
+![OSINT](https://img.shields.io/badge/OSINT-blue)
 
-![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-blue)
+![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-grey)
 
 
 # 📊 GitHub Stats:
