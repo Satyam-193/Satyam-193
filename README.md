@@ -6,7 +6,7 @@
 
 ## 🌐 Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me blue)](https://www.linkedin.com/in/satyam-pathak-a482481bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](https://www.linkedin.com/in/satyam-pathak-a482481bb/)
 
 
 
