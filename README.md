@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @Satyam-193
-- 👀 I’m interested in development and algorithms.
-- 🌱 I’m currently learning c++ advanced concepts.
+- 👀 I’m is interested by Competitive programming, Artificial Inetelligence.
+- 🌱 I’m currently working as a Security Researcher.
 - 💞️ I’m looking to collaborate on Netwrok security.
 - 📫 you can reach out to me on linkedin, twitter.
 
 ## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](https://www.linkedin.com/in/satyam-pathak-a482481bb/)
-
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-green)](https://choosealicense.com/licenses/mit/)
+[![Defendtheweb](https://img.shields.io/badge/DefendtheWeb-blue)](https://www.defendtheweb.net/)
 
 
 # 💻 Tech Stack:
