@@ -7,8 +7,8 @@
 ## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Social%20platform%20for%20working%20professional-blue)](https://www.linkedin.com/in/satyam-pathak-a482481bb/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank)](https://www.hackerrank.com/users/satyampathak7291)
-[![Defendtheweb]()
+[![Hackerrank]](https://www.hackerrank.com/users/satyampathak7291)
+
 
 
 # 💻 Tech Stack:
