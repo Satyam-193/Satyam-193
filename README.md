@@ -17,7 +17,7 @@
 ![Firebase](https://img.shields.io/badge/FIREBASE-orange)  ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![MySQL](https://img.shields.io/badge/MYSQL-white)
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
 
-![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-white)
+![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-red)
 
 
 # 📊 GitHub Stats:
