@@ -7,14 +7,18 @@
 ## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact%20Me-blue)](https://www.linkedin.com/in/satyam-pathak-a482481bb/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-green)](https://choosealicense.com/licenses/mit/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-grey)](https://www.hackerrank.com/users/satyampathak7291)
 [![Defendtheweb](https://img.shields.io/badge/DefendtheWeb-blue)](https://www.defendtheweb.net/)
 
 
 # 💻 Tech Stack:
 
-[C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-grey)
+
+![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-blue)
+
 
 # 📊 GitHub Stats:
 
