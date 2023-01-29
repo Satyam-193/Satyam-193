@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satyam-193
-- 👀 I’m interested by Competitive programming, Artificial Inetelligence.
+- 👀 I’m interested in breaking security for good.
 - 🌱 I’m currently working as a Security Researcher.
 - 💞️ I’m looking to collaborate on Netwrok security.
 - 📫 you can reach out to me on linkedin, twitter.
