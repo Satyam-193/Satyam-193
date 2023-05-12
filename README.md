@@ -6,7 +6,10 @@
 
 ## 🌐 Contact Me:
 
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 
+
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> 
 <a href="https://www.linkedin.com/in/satyam-pathak-a482481bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Languages and Tools:
@@ -41,22 +44,28 @@
   <a href="https://www.python.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://developers.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> 
-  </a>
   </p>
 
 ## 💻 Tech Stack:
 
-![Firebase](https://img.shields.io/badge/FIREBASE-yellow)  ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![MySQL](https://img.shields.io/badge/MYSQL-white)
-![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-orange)
-![NMAP](https://img.shields.io/badge/NMAP-white)
-![OSINT](https://img.shields.io/badge/OSINT-blue)
-
-![Reconnaissance](https://img.shields.io/badge/INFORMATION%20GATHERING-red)
-![XML](https://img.shields.io/badge/XML-white)
-![ANDROID STUDIO](https://img.shields.io/badge/ANDROID%20STUDIO-green)
-
+ <a href="https://developers.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android"/> 
+  </a>
+  
+  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+  <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"/>
+  
+   
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Satyam-193&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
