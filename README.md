@@ -5,6 +5,7 @@
 - 📫 you can reach out to me on linkedin, twitter.
 
 ## 🌐 Contact Me:
+
 <a href=" https://twitter.com/satyam_72"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>  <a href="https://www.hackerrank.com/Satyampathak7291 "> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>  <a href="https://www.linkedin.com/in/satyam-pathak-a482481bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Languages and Tools:
