@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://developers.google.com/" target="_blank">
-  <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/android/images/lockup.svg" alt="python" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" width="40" height="40"/> 
   </a>
   </p>
 
