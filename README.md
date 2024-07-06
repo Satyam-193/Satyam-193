@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Satyam-193
+- 👋 Hi, I’m eth0.
 - 👀 I’m interested in breaking security for good.
 - 🌱 I’m currently working as a Security Researcher.
-- 💞️ I’m looking to collaborate on Network security.
+- 💞️ I’m looking to collaborate in Network security.
 - 📫 you can reach out to me on linkedin, twitter.
 
 ## 🌐 Contact Me:
