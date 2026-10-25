@@ -3,12 +3,10 @@
 ## 🧠 About Me
 
 Aspiring Data Analyst | Business Intelligence Enthusiast 📊
-
-Hi, I'm an aspiring Data Analyst who enjoys working with data and creating dashboards. 
-
-I like finding useful insights from data and presenting them in a simple way. 
-
-I'm learning SQL, Python, Excel, and Power BI and working on projects to improve my skills.
+   
+   Hi, I'm an aspiring Data Analyst who enjoys working with data and creating dashboards. 
+   I like finding useful insights from data and presenting them in a simple way. 
+   I'm learning SQL, Python, Excel, and Power BI and working on projects to improve my skills.
 
 ---
 
