@@ -53,7 +53,7 @@ I'm learning SQL, Python, Excel, and Power BI and working on projects to improve
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-193&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-193&theme=Cyberpunk" alt="Profile Summary Card" width="820" />
 </p>
 
 ---
