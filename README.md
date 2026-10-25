@@ -2,9 +2,11 @@
 
 ## 🧠 About Me
 
-I'm a passionate data analyst focused on Business Intelligence solutions.  
-I love turning complex data into simple, impactful, and visually stunning dashboards.  
-Currently experimenting with custom HTML + JS visuals inside Power BI.
+Aspiring Data Analyst | Business Intelligence Enthusiast 📊
+
+Hi, I'm an aspiring Data Analyst who enjoys working with data and creating dashboards. 
+I like finding useful insights from data and presenting them in a simple way. 
+I'm learning SQL, Python, Excel, and Power BI and working on projects to improve my skills.
 
 ---
 
@@ -50,7 +52,7 @@ Currently experimenting with custom HTML + JS visuals inside Power BI.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dataspieler12345&theme=tokyonight" alt="Profile Summary Card" width="820" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-193&theme=tokyonight" alt="Profile Summary Card" width="820" />
 </p>
 
 ---
